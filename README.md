@@ -2,16 +2,16 @@
 
 # 📍 비상 수용시설 찾기 플랫폼 (Shelter Finder)
 
-> **공공 API를 활용하여 사용자의 위치 기반으로 인근 수용시설 정보를 실시간으로 제공하는 안드로이드 애플리케이션입니다.** [cite: 3, 23]
-> 2025년 6월 모바일 프로그래밍 프로젝트 최종 결과물입니다. [cite: 2, 4]
+> **공공 API를 활용하여 사용자의 위치 기반으로 인근 수용시설 정보를 실시간으로 제공하는 안드로이드 애플리케이션입니다.**
+> 2025년 6월 모바일 프로그래밍 프로젝트 최종 결과물입니다.
 
 ---
 
 ## 기술 스택 (Tech Stack)
 
 ### **Development Environment**
-* **Language & IDE**: Kotlin, Android Studio [cite: 142, 193]
-* **Architecture**: **MVVM (Model-View-ViewModel)** 패턴 적용 [cite: 227]
+* **Language & IDE**: Kotlin, Android Studio
+* **Architecture**: **MVVM (Model-View-ViewModel)** 패턴 적용
 
 ### **Libraries & Frameworks**
 * **Local Database**: **Room (Jetpack)** - SQLite 기반 로컬 캐싱 및 데이터 관리
