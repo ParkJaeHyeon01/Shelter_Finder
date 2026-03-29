@@ -22,7 +22,7 @@
 
 ---
 
-## 👤 주요 역할 및 기여 (Frontend & Data Management)
+## 주요 역할 및 기여 (Frontend & Data Management)
 
 ### **1. 데이터 핸들링 및 API Mashup (웹 풀스택 역량 강조)**
 * **비정형 공공 데이터 가공**: 재난안전데이터공유플랫폼의 비표준 필드명(한글 약어 등)을 `@SerializedName`을 통해 매핑하고, **Mapper 클래스**를 설계하여 행정구역별로 분절된 데이터를 유의미한 주소 정보로 통합했습니다.
