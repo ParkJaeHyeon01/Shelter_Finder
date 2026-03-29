@@ -1,0 +1,15 @@
+## [Shelter Finder Project - API Keys Template]
+## 이 파일을 'local.properties'라는 이름으로 복사한 뒤, 본인의 실제 키를 입력하세요.
+## 주의: 실제 키가 담긴 'local.properties' 파일은 절대 깃허브에 올리지 마세요 (.gitignore 확인).
+
+# 1. 공공 데이터 포털 - 재난안전데이터공유플랫폼 서비스 키
+# 활용 파일: UpdateCheckFragment.kt
+PUBLIC_DATA_KEY=YOUR_PUBLIC_DATA_API_KEY_HERE
+
+# 2. Kakao Developers - JavaScript 키
+# 활용 파일: map.html / ShelterListFragment.kt
+KAKAO_MAP_KEY=YOUR_KAKAO_MAP_JAVASCRIPT_KEY_HERE
+
+# 3. Kakao Developers - REST API 키 (이미지 검색용)
+# 활용 파일: ShelterListViewModel.kt
+KAKAO_REST_API_KEY=YOUR_KAKAO_REST_API_KEY_HERE
